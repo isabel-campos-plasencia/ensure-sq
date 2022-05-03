@@ -413,3 +413,28 @@ The article describe the Boehm software quality model. It identifies characteris
 * establishing standards
 * using an automated code auditor for standards compliance
 * performing design and code inspections
+
+
+
+## 120 - Specifying software quality with the extended ISO model
+
+R.H.J. van Zeist and P.r.H. Hendriks
+
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-27144550799&doi=10.1007%2fBF00209185&partnerID=40&md5=64394714677ede47867fcd1a5625efff>
+
+| Paper_id | Name  | Definition | Qualitative/Quantitative | Targeted to SW | Reviewer  | Comment |
+| :------: | :---: | :--------: | :----------------------: | :------------: | :-------: | :-----: |
+| 120       | Individual Information | Aligning the specification on what means software quality |  Quantitive |  All  | IC | Extension to the ISO 9126 model, superseed later by ISO/IEC 25010 in year 2011 |
+| 120       | Stakeholder context | End users, developers and evaluator |  Quantitative |  All | IC        |  Distinguises between user context and developer context to gather quality requirements and adds an evaluator context |
+| 120       | Technical context | Information about the source code asking about perceptions beyond technical functionalities such as user-friendliness, etc... |  Qualitative |  All | IC        |  Type of software can be rich client, web application and son. |
+| 120       | Context-sensitive | The relation between the different actors involved in the software lifecycle, from developers to maintainers, end users and software evaluators |  Qualitative |  All | IC        |  The paper provides a useful basic introduction to define the different perspectives under which software quality can be analyzed |
+
+**Quality Model** ("is based
+
+**NOTE: This article is mainly on context definition and its role in the process of software quality evaluation** 
+
+The paper descrbes an extension of the ISO 9126 model os software quality, based on the findings of the project QUINT (Quality in Information Technology). 
+The extension includes non-technical concepts in the software usablity ccriteria such as learnability, explicitness, clairty, helpfulness, user-friendliness. 
+The results were tested by the software teams of several companies dedicated to software development, and conclusions are available in the handbook of the 
+project summary. The methodology described is now embedded in the DevOps paradigms, specially concerning the need of independent testing and validation processes.
+
