@@ -428,9 +428,8 @@ Stelzer D., Mellis W., Herzwurm G.
 | 120       | Technical context | analysis of the feedback received from companies certified with ISO 9000 |  Qualitative |  All | IC        |  Type of software can be anything |
 | 120       | Context-sensitive | The relation between the actors involved in the certification ISO 9000 evaluation and management |  Qualitative |  All | IC        |  The paper provides a useful description of the problems software developers may go through when ISO 9000 is implemented |
 
-**Quality Model** ("is based on mentions")
+**Quality Model** ("is based on a survey")
 
-**NOTE: This article is mainly on context definition and its role in the process of software quality evaluation** 
 
 This article describes the impact on software quality management as reported by several organiztions that have an ISO9000 certification. What has been the impact
 in the quality management of their software that can be attributed to being certified ISO 9000. The survey was centered in five elements: code reviews and inspections,
