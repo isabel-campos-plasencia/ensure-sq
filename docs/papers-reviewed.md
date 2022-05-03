@@ -414,6 +414,31 @@ The article describe the Boehm software quality model. It identifies characteris
 * using an automated code auditor for standards compliance
 * performing design and code inspections
 
+## 118 - A critical look at ISO 9000 for software quality management
+
+Stelzer D., Mellis W., Herzwurm G.
+
+
+<https://www.scopus.com/inward/record.uri?eid=2-s2.0-0642363924&doi=10.1023%2fA%3a1018591430752&partnerID=40&md5=9181348bb75865be23649ef29338594f>
+
+| Paper_id | Name  | Definition | Qualitative/Quantitative | Targeted to SW | Reviewer  | Comment |
+| :------: | :---: | :--------: | :----------------------: | :------------: | :-------: | :-----: |
+| 120       | Individual Information | Impact of ISO 9000 on software development: a survey |  Qualitative |  All  | IC | Critical analysis of ISO 9000 as regard to its implications in software development processes in companies |
+| 120       | Stakeholder context | Managerial layers, programmers, ISO auditors |  Qualitative |  All | IC        |  Distinguises between programmers context and managerial layer|
+| 120       | Technical context | analysis of the feedback received from companies certified with ISO 9000 |  Qualitative |  All | IC        |  Type of software can be anything |
+| 120       | Context-sensitive | The relation between the actors involved in the certification ISO 9000 evaluation and management |  Qualitative |  All | IC        |  The paper provides a useful description of the problems software developers may go through when ISO 9000 is implemented |
+
+**Quality Model** ("is based on mentions")
+
+**NOTE: This article is mainly on context definition and its role in the process of software quality evaluation** 
+
+This article describes the impact on software quality management as reported by several organiztions that have an ISO9000 certification. What has been the impact
+in the quality management of their software that can be attributed to being certified ISO 9000. The survey was centered in five elements: code reviews and inspections,
+software testing, product and process measurements, measurement of quality cost and demonstrations of quality improvement. Most critics are around the lack of real 
+impact in the time-to-market strategies for software products, and to the burden they generate to the developers due to the exceisve "top-down approach" and 
+centralized management quality management approach of the ISO 9000 system. Excesive load of documentation production for auditing purposes is also a problem 
+reported by the companies involved in the analysis. Aspects such as moral and motivation of the programmers are not considered. 
+
 
 
 ## 120 - Specifying software quality with the extended ISO model
@@ -424,12 +449,12 @@ R.H.J. van Zeist and P.r.H. Hendriks
 
 | Paper_id | Name  | Definition | Qualitative/Quantitative | Targeted to SW | Reviewer  | Comment |
 | :------: | :---: | :--------: | :----------------------: | :------------: | :-------: | :-----: |
-| 120       | Individual Information | Aligning the specification on what means software quality |  Quantitive |  All  | IC | Extension to the ISO 9126 model, superseed later by ISO/IEC 25010 in year 2011 |
-| 120       | Stakeholder context | End users, developers and evaluator |  Quantitative |  All | IC        |  Distinguises between user context and developer context to gather quality requirements and adds an evaluator context |
-| 120       | Technical context | Information about the source code asking about perceptions beyond technical functionalities such as user-friendliness, etc... |  Qualitative |  All | IC        |  Type of software can be rich client, web application and son. |
+| 120       | Individual Information | Aligning the specification on what means software quality |  Qualitative |  All  | IC | Extension to the ISO 9126 model, superseed later by ISO/IEC 25010 in year 2011 |
+| 120       | Stakeholder context | End users, developers and evaluator |  Qualitative |  All | IC        |  Distinguises between user context and developer context to gather quality requirements and adds an evaluator context |
+| 120       | Technical context | Information about the source code asking about perceptions beyond technical functionalities such as user-friendliness, etc... |  Qualitative |  All | IC        |  Type of software can be any |
 | 120       | Context-sensitive | The relation between the different actors involved in the software lifecycle, from developers to maintainers, end users and software evaluators |  Qualitative |  All | IC        |  The paper provides a useful basic introduction to define the different perspectives under which software quality can be analyzed |
 
-**Quality Model** ("is based
+**Quality Model** ("is based on mentions")
 
 **NOTE: This article is mainly on context definition and its role in the process of software quality evaluation** 
 
